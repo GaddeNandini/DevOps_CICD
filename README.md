@@ -1,1 +1,1 @@
-demo - simple edit trigger
+To demo trigger
